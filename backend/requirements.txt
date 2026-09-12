@@ -9,4 +9,5 @@ requests==2.32.3
 langchain-core==0.3.15
 langchain-mistralai==0.2.2
 reportlab==4.2.5
+python-dotenv==1.0.1
 gunicorn==23.0.0
