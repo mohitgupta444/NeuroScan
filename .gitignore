@@ -43,3 +43,9 @@ Thumbs.db
 *.pth
 *.pt
 *.onnx
+
+# Generated pseudo masks
+backend/pseudo_masks/
+
+# VS Code temporary files
+tempCodeRunnerFile.py
