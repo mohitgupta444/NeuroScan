@@ -1,7 +1,7 @@
 // ============================================================
 // Configuration
 // ============================================================
-const API_BASE = "http://localhost:5000"; // Flask backend
+const API_BASE = "https://neuroscan-backend-oqcj.onrender.com"; // Flask backend
 
 // ============================================================
 // Element refs
